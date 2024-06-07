@@ -4,7 +4,7 @@ This is a simple GDExtension for Godot which I use for [GoZen](https://github.co
 
 ## Usage
 
-Extend from DataManager and use the `save_data` and `load_data` functions. All normal variables will be saved except for export variables and variables starting with an underscore. 
+Extend from DataManager and use the `save_data` and `load_data` functions. All normal variables will be saved except for variables starting with an underscore and const variables.
 
 ## Why a GDExtension?
 

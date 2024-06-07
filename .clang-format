@@ -1,0 +1,7 @@
+IndentWidth: '4'
+TabWidth: '4'
+UseTab: Always
+ColumnLimit: 0
+IndentAccessModifiers: false
+AccessModifierOffset: -4
+
